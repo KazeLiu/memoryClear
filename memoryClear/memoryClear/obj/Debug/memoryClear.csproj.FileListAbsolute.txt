@@ -1,0 +1,10 @@
+D:\C#\memoryClear\memoryClear\bin\Debug\memoryClear.exe.config
+D:\C#\memoryClear\memoryClear\bin\Debug\memoryClear.exe
+D:\C#\memoryClear\memoryClear\bin\Debug\memoryClear.pdb
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.csprojResolveAssemblyReference.cache
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.Form1.resources
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.Properties.Resources.resources
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.csproj.GenerateResource.Cache
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.exe
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.pdb
+D:\C#\memoryClear\memoryClear\obj\Debug\memoryClear.Form2.resources
